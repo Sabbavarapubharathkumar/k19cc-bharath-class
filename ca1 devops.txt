@@ -1,0 +1,1 @@
+2nd answer. find -iname "myfile.txt"
